@@ -1,1 +1,1 @@
-<audio src="путь/к/аудио.mp3" controls></audio>
+<audio src="nope youre too late i already died.mp3" controls></audio>
